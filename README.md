@@ -4,7 +4,7 @@ PAC is a political consultancy which provides services such as Social Media Mana
 
 **Link to project:** https://ankushrajmaheyam.github.io/Political-Consultancy/
 
-![alt tag](https://github.com/AnkushRajMaheYam/AboutMe/tree/main/images)
+![alt tag](https://github.com/AnkushRajMaheYam/Political-Advisory-Committee/blob/main/images/logo.png)
 
 ## How It's Made:
 
@@ -20,6 +20,6 @@ Used IS pseduo class to make the code more compact. Working with % and rem is fu
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**CodeWars:** https://github.com/AnkushRajMaheYam
+**ARMY Website:** https://ankushrajmaheyam.github.io/ARMY
 
 **Portfolio:** https://ankushrajmaheyam.github.io/AboutMe
