@@ -2,9 +2,9 @@
 
 PAC is a political consultancy which provides services such as Social Media Managament, Opinion Poll, Strategy Formulation, Door-to-Door Campaign, etc. This Website build by Ankush Raj Mahe Yam - ARMY.
 
-**Link to project:** https://ankushrajmaheyam.github.io/Political-Consultancy/
+**Link to project:**  https://ankushrajmaheyam.github.io/Political-Advisory-Committee
 
-![alt tag]( https://ankushrajmaheyam.github.io/Political-Advisory-Committee)
+![alt tag](https://github.com/AnkushRajMaheYam/Political-Advisory-Committee/blob/main/images/logo.png)
 
 ## How It's Made:
 
