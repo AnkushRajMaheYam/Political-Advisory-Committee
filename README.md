@@ -23,3 +23,15 @@ Take a look at these couple examples that I have in my own portfolio:
 **ARMY Website:** https://ankushrajmaheyam.github.io/ARMY
 
 **Portfolio:** https://ankushrajmaheyam.github.io/AboutMe
+
+## About Me  
+
+Hi, I’m **Ankush Raj** or **Ankush Raj Mahe Yam** **(ARMY)**, an aspiring software developer. I’m passionate about coding and enjoy sharing my learning journey to help others grow.  
+
+🌟 Connect with me:  
+- **Google Search:** [Ankush Raj Mahe Yam](https://www.google.com/search?q=ankush+raj+mahe+yam)  
+- **LinkedIn:** [Ankush Raj Mahe Yam](https://linkedin.com/in/ankushrajmaheyam)  
+- **GitHub:** [Ankush Raj Mahe Yam](https://github.com/AnkushRajMaheYam)  
+- **Instagram:** [@AnkushRajaMaheYam](https://instagram.com/AnkushRajaMaheYam)  
+- **Facebook:** [Ankush Raj Mahe Yam](https://facebook.com/AnkushRajMaheYam)  
+
