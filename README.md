@@ -4,7 +4,7 @@ PAC is a political consultancy which provides services such as Social Media Mana
 
 **Link to project:**  https://ankushrajmaheyam.github.io/Political-Advisory-Committee
 
-![alt tag](https://github.com/AnkushRajMaheYam/Political-Advisory-Committee/blob/main/images/logo.png)
+![Preview of Website](preview-of-pac.png)
 
 ## How It's Made:
 
